@@ -12,12 +12,10 @@ A simple application for a quiz. Learned from the online course Udemy - The Comp
 ## Screenshot
 
 ### App Main Activity
-![Main Activity](https://github.com/ryecoder/QuizApp/blob/main/screenshots/sc_1.png?raw=true =350x200)
-
-<img src="https://github.com/ryecoder/QuizApp/blob/main/screenshots/sc_1.png?raw=true" alt="" width="350" height="200" />
+![Main Activity](https://github.com/ryecoder/QuizApp/blob/main/screenshots/sc_1.png?raw=true)
 ### Questions Activity
-![Questions Activity](https://github.com/ryecoder/QuizApp/blob/main/screenshots/sc_2.png?raw=true){:height="350px" width="200px"}
-![Questions Activity](https://github.com/ryecoder/QuizApp/blob/main/screenshots/sc_3.png?raw=true){:height="350px" width="200px"}
-![Questions Activity](https://github.com/ryecoder/QuizApp/blob/main/screenshots/sc_4.png?raw=true){:height="350px" width="200px"}
+![Questions Activity](https://github.com/ryecoder/QuizApp/blob/main/screenshots/sc_2.png?raw=true)
+![Questions Activity](https://github.com/ryecoder/QuizApp/blob/main/screenshots/sc_3.png?raw=true)
+![Questions Activity](https://github.com/ryecoder/QuizApp/blob/main/screenshots/sc_4.png?raw=true)
 ### Results Activity
-![Results Activity](https://github.com/ryecoder/QuizApp/blob/main/screenshots/sc_5.jpg?raw=true){:height="350px" width="200px"}
+![Results Activity](https://github.com/ryecoder/QuizApp/blob/main/screenshots/sc_5.jpg?raw=true)
